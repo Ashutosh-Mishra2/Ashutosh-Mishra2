@@ -1,4 +1,13 @@
 ### Hi there 👋
+Ashutosh Mishra here 🖖.
+- 🧑‍🎓 I am a PhD student. 
+- 🔭 I’m currently working on optimal control of superconducting qubits and quantum computing.
+- 🌱 I’m currently trying to learn Machine learning and tensorflow.  
+- 💬 Ask me about anything 😁
+- 📫 How to reach me: Email - ashutoshsitu99@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun Quote: "If you wish to make an apple pie from scratch, you must first invent the universe" - Carl Sagan 
+
 
 <!--
 **Ashutosh-Mishra2/Ashutosh-Mishra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
