@@ -9,7 +9,9 @@ Ashutosh Mishra here 🖖.
 - ⚡ Fun Quote: "If you wish to make an apple pie from scratch, you must first invent the universe" - Carl Sagan 
 
 Also follow me on gitlab - https://jugit.fz-juelich.de/a.mishra
-and checkout this quantum optimal control package that I have been working on - [paraqeet](https://jugit.fz-juelich.de/pgi-12-external/qfc/paraqeet)
+
+
+And checkout this quantum optimal control package that I have been working on - [paraqeet](https://jugit.fz-juelich.de/pgi-12-external/qfc/paraqeet)
 
 
 
