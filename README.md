@@ -2,7 +2,7 @@
 Ashutosh Mishra here 🖖.
 - 🧑‍🎓 I am a PhD student. 
 - 🔭 I’m currently working on optimal control of superconducting qubits and quantum computing.
-- 🌱 I’m currently trying to learn Machine learning and tensorflow.  
+- 🌱 I’m currently trying to learn Machine learning and JAX.  
 - 💬 Ask me about anything 😁
 - 📫 How to reach me: Email - ashutoshsitu99@gmail.com
 - 😄 Pronouns: He/Him
