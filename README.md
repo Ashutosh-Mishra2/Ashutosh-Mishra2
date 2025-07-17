@@ -8,6 +8,9 @@ Ashutosh Mishra here 🖖.
 - 😄 Pronouns: He/Him
 - ⚡ Fun Quote: "If you wish to make an apple pie from scratch, you must first invent the universe" - Carl Sagan 
 
+Also checkout this repository that I have been working on - https://jugit.fz-juelich.de/pgi-12-external/qfc/paraqeet
+
+
 
 <!--
 **Ashutosh-Mishra2/Ashutosh-Mishra2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
