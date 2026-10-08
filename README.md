@@ -4,7 +4,7 @@ I am currently looking at development of quantum control methods for noisy syste
 
 Checkout my latest preprint on this topic: https://arxiv.org/abs/2607.26867
 
-Apart from this, I actively contribute to the development of a quantum simulation and optimization package [ParaQeet](https://paraqeet.readthedocs.io/en/latest/) aimed at streamlining optimization workflows. I keep increasing the simulation and optimization methods here. If you are interested, feel free to send me an email.
+Apart from this, I actively contribute to the development of a quantum simulation and optimization package [ParaQeet](https://paraqeet.readthedocs.io/en/latest/) aimed at streamlining optimization workflows. I keep adding new simulation and optimization methods here. If you are interested, feel free to send me an email.
 
 - 📫 How to reach me: Email - ashutoshsitu99@gmail.com
 
